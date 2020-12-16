@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        " PH",
+        " SP",
+        "S  "
+    ],
+   
+    "key":
+    {
+        "H":
+        {
+            "item": "customrecipesmod:steel_hammer_head"
+        },
+        
+        "S": 
+        {
+            "type": "forge:ore_dict",
+            "ore": "stickWood"
+        },
+        
+        "P": 
+        {
+            "type": "forge:ore_dict",
+            "ore": "cordageGeneral"
+        }
+    },
+     
+    "result":
+    {
+        "item": "magneticraft:steel_hammer",
+        "count": 1
+    }
+}

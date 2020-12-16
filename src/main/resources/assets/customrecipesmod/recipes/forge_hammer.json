@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "PHP",
+        " S ",
+        " S "
+    ],
+   
+    "key":
+    {
+        "H":
+        {
+            "item": "customrecipesmod:forge_hammer_head"
+        },
+        
+        "S": 
+        {
+            "type": "forge:ore_dict",
+            "ore": "stickWood"
+        },
+		
+		"P": 
+        {
+            "type": "forge:ore_dict",
+            "ore": "cordageGeneral"
+        }
+    },
+     
+    "result":
+    {
+        "item": "ic2:forge_hammer",
+        "count": 1
+    }
+}

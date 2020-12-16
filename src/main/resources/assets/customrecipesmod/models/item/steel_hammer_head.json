@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "customrecipesmod:items/steel_hammer_head"
+   }
+}

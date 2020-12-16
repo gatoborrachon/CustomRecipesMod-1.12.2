@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "customrecipesmod:items/carving_knife_head"
+   }
+}

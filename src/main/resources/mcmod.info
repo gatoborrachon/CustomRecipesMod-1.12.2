@@ -1,0 +1,16 @@
+[
+{
+  "modid": "customrecipesmod",
+  "name": "Custom Recipes Mod",
+  "description": "A personal mod where i added some recipes i wanted in some mods i like to play",
+  "version": "1.6",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gatoborrachon"],
+  "credits": "Su5eD for telling me this is possible, a friend and my cat",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
